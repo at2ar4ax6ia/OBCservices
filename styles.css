@@ -17,10 +17,12 @@ img {
 }
 
 .years {
-  font-size: 50px;
-  display: inline-block;
   float: left;
   margin-left: 15%
+}
+
+.years a {
+  font-size: 50px;
 }
 
 .header {
