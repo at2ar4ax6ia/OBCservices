@@ -1,2 +1,6 @@
 exclude:
   - _services
+
+exclude: [_services/]
+
+exclude: [_services]
